@@ -1,0 +1,37 @@
+<meta charset="UTF-8">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>EDAD MEDIA DE FAMILIA</title>
+    </head>
+<h1>Programa para calcular MEDIA EDAD DE LA FAMILIA</h1>
+
+<script>
+
+function saltarLinea() {
+     // saltando dos lineas
+    document.write("<br>");    
+    document.write("<br>");    
+}
+
+function imprimir(frase){ 
+    document.write(frase); 
+    document.write("<br>");
+    document.write("<br>");      
+}
+
+var numerospares = parseInt(prompt("Ingrese la cantidad de numeros pares"));
+var contador = 2;
+
+
+while (contador <= numerospares){
+    
+    imprimir(contador);
+    contador = contador +2
+
+}
+
+
+imprimir("FIN")
+
+</script>

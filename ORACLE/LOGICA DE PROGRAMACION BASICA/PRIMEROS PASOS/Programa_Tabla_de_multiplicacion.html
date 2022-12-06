@@ -1,0 +1,42 @@
+<meta charset="UTF-8">
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>TABLAS DE MULTIPLICACION</title>
+    </head>
+<h1>Programa para calcular LA TABLA DEL 5</h1>
+
+<script>
+
+function saltarLinea() {
+     // saltando dos lineas
+    document.write("<br>");    
+    document.write("<br>");    
+}
+
+function imprimir(frase){ 
+    document.write(frase); 
+    document.write("<br>");
+    document.write("<br>");      
+}
+
+var multiplicador = 1
+imprimir("WHILE");
+while (multiplicador<= 10) {
+
+    imprimir(5 * multiplicador)
+    multiplicador = multiplicador + 1;
+        // se puede emplear el multiplicador++ para simplificar
+}
+
+imprimir("FOR");
+for (var multiplicador = 1; multiplicador <= 10, multiplicador = multiplicador +1;) {
+
+    imprimir(5 * multiplicador)
+    
+
+}
+
+imprimir("FIN")
+
+</script>
