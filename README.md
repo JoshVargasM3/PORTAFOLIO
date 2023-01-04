@@ -1,3 +1,3 @@
-# REPOSITORIO
+# PORTAFOLIO
 
-<a href="https://joshvargasm3.github.io/REPOSITORIO/">Visualiza mi primer repositorio</a>
+<a href="https://joshvargasm3.github.io/PORTAFOLIO/">Visualiza mi PORTAFOLIO</a>
