@@ -4,16 +4,43 @@
     padding: 0;
 }
 
+/*-----------------------------------------------Encabezado----------------------------------------------*/
+header{
+    background-color: transparent;
+    text-align: center;
+}
+
+.logo-menu .menu a{
+    display: inline-block;
+    padding: 40px 20px;
+    margin: 20px;
+}
+
+.logo-menu .menu a:hover{
+    border-bottom: 4px solid #ff9f1c;
+    padding-bottom: 36px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color:white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #c78c19;
+
+}
+
+/*-----------------------------------------------Body----------------------------------------------*/
 body{
-    background: linear-gradient(135deg, #23a6d5, #202E9C,#700DD2, #23d5ab  );
+    background: linear-gradient(135deg, #4f385f, #8f425b, #c3004d ,#284869, #498183, #93c59d, #cbd6e9   );
     animation: gradient 20s ease infinite;
     background-size: 500% 500%;
-    animation: gradient 15s ease infinite;
-	height: 100vh;
     font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
-
 @keyframes gradient {
 	0% {
 		background-position: 0% 50%;
@@ -29,7 +56,6 @@ body{
 
 [class*="col-"] {
     float: left;
-/* border: 1px solid red; */
 }
 
 .m-1{margin: .5em;}
@@ -49,6 +75,7 @@ body{
     font-size: 32px;
     line-height: 48px;
     border: 2px solid rgba( 255, 255, 255, 0.18 );
+    border-radius: 15px 25px 5px 35px;
     color: rgba(250, 253, 253, 0.808);
     background-color: transparent;
 }
@@ -57,7 +84,7 @@ body{
     background-color: transparent;
     height: 28em;
     border: 2px solid rgba( 255, 255, 255, 0.18 );
-    border-radius: 25px;
+    border-radius: 15px 25px 5px 35px;
 }
 .error{background-color: rgba(17, 0, 255, 0.342);}
 
@@ -91,6 +118,9 @@ body{
     color: #fff;
 }
 
+.imagen{
+    display: block;
+}
 
 
 .ocultarImagen{display: none;}
@@ -104,13 +134,13 @@ body{
     border-radius: 15px;
     margin-left: 2em ;
 }
-
+/*-----------------------------------------------Pie de pagina----------------------------------------------*/
 footer{
     text-align: center;
-    background: #0d1bda;
+    background: #0A3871;
     opacity: 100;
     padding: 40px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
-    margin: 20px auto;
+    margin: 20px auto 0;
     color: #fff;
 }
