@@ -40,7 +40,7 @@ function encriptar() {
     if ( textoInicial.trim() == '' ) {
         window.location.reload();
     }
-    if ( textoInicial != ''  &&  acento != true ) {
+    if ( textoInicial != ''  &&  acentos != true ) {
         textoFinal = encriptacion( textoInicial );
         imagen.classList.add( "ocultarImagen" );
         resultado.textContent = textoFinal;
