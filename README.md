@@ -4,7 +4,7 @@
 <a href="https://joshvargasm3.github.io/PORTAFOLIO/">App de Encriptación</a>
 
 ## Tecnologias utilizadas en mis proyectos
-[![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,py,java,r,html,css)](https://skills.thijs.gg)
 
 ## Visualiza mis certificaciones
 
