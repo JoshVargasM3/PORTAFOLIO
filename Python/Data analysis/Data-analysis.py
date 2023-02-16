@@ -37,3 +37,4 @@ df.describe(include = "all")
 
 #Where "column" is the name of the column, you can apply the method ".describe()" to get the statistics of                            those columns as follows: dataframe[[' column 1 ',column 2', 'column 3'] ].describe()
 df[['length', 'compression-ratio']].describe()
+df = pd.read_csv("automobile.csv")
