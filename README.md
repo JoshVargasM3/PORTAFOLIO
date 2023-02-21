@@ -1,5 +1,5 @@
 <!--HEADER--> 
-<p align="center" dir="auto" ><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Pixel%20city.gif" width="50%"></img></p>
+<p align="center" dir="auto" ><img src="https://i.pinimg.com/originals/81/26/7d/81267dec1d4578c4a954894cf7609415.gif" width="50%"></img></p>
 
 # About Me
 <p align="center" dir="auto"> Hello everyone!</p>
