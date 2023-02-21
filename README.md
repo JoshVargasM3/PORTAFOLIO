@@ -1,5 +1,6 @@
 <!--HEADER--> 
-<img src="https://github.com/JoshVargasM3/JoshVargasM3/blob/main/footer.svg" width="100%"></img>
+<p align="center" dir="auto" ><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Cyberpunk%20city%20pixel.gif" width="75%"></img></p>
+
 # About Me
 <p align="center" dir="auto"> Hello everyone!</p>
 
@@ -53,5 +54,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshVargasM3&layout=compact&theme=radical" />
 </a></p>
 
+<!--HACKER-IMAGES--> 
+### Contributions
+<p align="center" dir="auto"><img src="https://github.com/JoshVargasM3/PORTAFOLIO/blob/Main/GifImages/Mastermind.gif" width="50%"></p>
 
 <p align="center" dir="auto">Made by José Luis Vargas with ❤️</p>
