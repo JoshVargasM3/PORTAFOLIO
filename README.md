@@ -4,7 +4,7 @@
 # About Me
 <p align="center" dir="auto"> Hello everyone!</p>
 
-<p align="center" dir="auto" >I'm José Luis Vargas Ríos, I'm a Biotechnology Engineer, Jr Software Developer and Data Analyst. I'm a versatile individual with experience in collecting, transforming and organizing data for analysis to help make informed decisions, I'm continually learning new programming languages and software development by large companies such as Oracle, IBM and Alura LATAM.</p>
+<p align="center" dir="auto" >I'm José Luis Vargas Ríos, I'm a Biotechnology Engineer, Jr Software Developer and Data Analyst. I'm a versatile individual with experience in collecting, transforming and organizing data for analysis to help make informed decisions, I'm continually learning new programming languages and software development by large companies such as Google, Oracle, IBM and Alura LATAM.</p>
 
 <p align="center" dir="auto">I also have experience in the area of genetic improvement, agricultural biotechnology and in the Pharmaceutical Industry.</p>
 
