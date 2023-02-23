@@ -8,11 +8,11 @@ url="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDevel
 df = pd.read_csv(url)
 
 # take a look at the dataset
-df.head()
+df.head() 
 df.describe()
 cdf = df[['ENGINESIZE','CYLINDERS','FUELCONSUMPTION_COMB','CO2EMISSIONS']]
 cdf.head(9)
-
+#Create visualization
 viz = cdf[['CYLINDERS','ENGINESIZE','CO2EMISSIONS','FUELCONSUMPTION_COMB']]
 viz.hist()
 plt.show()
