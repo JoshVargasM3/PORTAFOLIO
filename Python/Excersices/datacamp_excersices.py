@@ -8,3 +8,10 @@ print(np.logical_or(x < 5, y > 15))
 datacamp = { 'course':'python', 'level':'intermediate', 'lesson': {'dictionaries':'python', 'lists':'r' } }
 
 datacamp.keys()
+
+def es_palindromo(palabra):
+    palabra = palabra.lower().replace(" ", "")
+    return palabra == palabra[::-1]
+
+es_palindromo("Tenet")
+    
