@@ -9,9 +9,6 @@ datacamp = { 'course':'python', 'level':'intermediate', 'lesson': {'dictionaries
 
 datacamp.keys()
 
-def es_palindromo(palabra):
-    palabra = palabra.lower().replace(" ", "")
-    return palabra == palabra[::-1]
-
-es_palindromo("Tenet")
+def palindromo(palabra):
     
+
