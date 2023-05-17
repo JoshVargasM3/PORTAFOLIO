@@ -21,14 +21,19 @@
 > This repository includes a README file to give a glimpse of my learning processes and active projects that I work on in my free time. 
 
 ## View my Portfolio
-> _***Text encrypter with JavaScript.***_
-> To test the app click <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+> _***Text encrypter with JavaScript.***_ To test the app click <a href="https://joshvargasm3.github.io/PORTAFOLIO/">Encryption App.</a>
+
+> ***Currency converter with Java.*** To test the app click <a href="https://github.com/JoshVargasM3/AppConvertidorDivisas">Converter App.</a>
+
+> ***WebPageDesigne with JavaScript.*** To visit the web page click <a href="https://joshvargasm3.github.io/DisenadoraGraficaWebsite/">Diseñadora Grafica Website.</a>
+
+> ***API REST with Java, Spring Boot 3.0.*** To test the app click <a href="https://github.com/JoshVargasM3/foro-alura-challenge ">Foro Alura API REST.</a>
 
 ## Technologies used in my projects
 >These are the technologies and programming languages that I use in my day to day, both for data analysis, machine learning, software design and development, as well as version control of my repositories.
 
 <p align="center" dir="auto">
-<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,git" />
+<img align="center" src="https://skills.thijs.gg/icons?i=js,py,java,r,html,css,figma,maven,idea,mysql,git" />
 </p>
 
 ## View my certifications
@@ -36,13 +41,16 @@
 >This are my certifications.
 <p align="center" dir="auto"><a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/GOOGLE"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngplay.com%2Fwp-content%2Fuploads%2F13%2FGoogle-Logo-PNG-Photo-Image.png&f=1&nofb=1&ipt=b73716ac51c2f5c624febe7afb91d2d841e254432401bd25c8d757e29bfc6e37&ipo=images" width='100px'></a> 
 <a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/ORACLE"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2020%2F09%2FOracle-Symbol.png&f=1&nofb=1&ipt=2bc2620840e49400703da1dbdbc4ad8f31ecf040db713b67b8583575413be9f2&ipo=images" width='150px'> </a> 
-<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/IBM"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F09%2FIBM-Logo-1967-1972.png&f=1&nofb=1&ipt=a1e36af4b5b16308466b2192667f872be1780729348cb012893133abe0407e34&ipo=images" width='160px'> </a></p>
+<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/IBM"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarcas.net%2Fwp-content%2Fuploads%2F2020%2F09%2FIBM-Logo-1967-1972.png&f=1&nofb=1&ipt=a1e36af4b5b16308466b2192667f872be1780729348cb012893133abe0407e34&ipo=images" width='160px'> </a>
+<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/DATACAMP/DATA_SCIENTISTS"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flh3.googleusercontent.com%2FzIO-uuTBjFigUIswv_h9S0-wVIkno_obwannvzr7NrXbh_MXL_khqV7gEqBly6KXEi4%3Dw1200-h630-p-k-no-nu&f=1&nofb=1&ipt=a654aa8e542f12803bfee7227da2185442bea19203f1a0a998ca045544019671&ipo=images" width='110px'> </a></p>
 
 <p align="center" dir="auto"> ✨<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/GOOGLE">GOOGLE</a></p>
 
 <p align="center" dir="auto">✨<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/ORACLE">ORACLE</a></p>
 
 <p align="center" dir="auto">✨<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/IBM">IBM</a></p>
+
+<p align="center" dir="auto">✨<a href="https://github.com/JoshVargasM3/PORTAFOLIO/tree/Main/CERTIFICATES/DATACAMP/DATA_SCIENTISTS">DataCamp</a></p>
 
 <!--🦶FOOTER--> 
 ## View my Stats
