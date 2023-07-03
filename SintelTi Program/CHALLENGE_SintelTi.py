@@ -18,7 +18,7 @@ EsPalindrome(45678654)
 #Pruebas 3:
 EsPalindrome(10102020101)
 #Pruebas 4:
-EsPalindrome("awa ts awa")
+EsPalindrome("awa sts awa")
 #Pruebas 5:
 EsPalindrome("awta")
 
